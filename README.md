@@ -14,7 +14,7 @@ Els productes que s'han seleccionat son productes que els 7 supermercats els tin
 Per tal de poder executar l'script, es necesessàri tindre un chromdriver.exe a la carpeta on estigui logalitzat Extraccio_Soy_Super.py
 chromedriver -> https://chromedriver.chromium.org/downloads
 
-També, s'han dinstal·lar les llibreries (consultar requirements.txt:
+També, s'han dinstal·lar les llibreries (consultar requirements.txt):
 
 ```
 pip3 install pandas
