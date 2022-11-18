@@ -30,5 +30,9 @@ Després per Executar el codi, caldrà el següent codi:
 ```
 python Extraccio_Soy_Super.py
 ```
+# Recursos
+
+1. Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+2. Mitchel, R. (2015). Web Scraping with Python: Collecting Data from the Modern Web. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
 
 
