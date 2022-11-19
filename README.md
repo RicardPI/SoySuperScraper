@@ -30,7 +30,7 @@ També, s'han dinstal·lar les llibreries (consultar requirements.txt):
 
 ```
 pip3 install pandas
-pip3 isntall selenium
+pip3 install selenium
 pip3 install beautifulsoup4
 pip3 install fsspec
 pip3 install requests
