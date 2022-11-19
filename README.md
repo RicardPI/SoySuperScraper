@@ -41,7 +41,7 @@ Després per Executar el codi, caldrà el següent codi:
 python Extraccio_Soy_Super.py
 ```
 
-  * `memoria.pdf`: Document de respostes.
+  * `memòria.pdf`: Document de respostes.
   * `/src/Extraccio_Soy_Super.py`: Arxiu principal.
   * `/src/requirements.txt`: Llista de paquetes utilitzats (Python 3.7.5).
   * `/dataset/collected_data_1.csv`: Descripción archivo.
