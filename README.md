@@ -53,7 +53,7 @@ El dataset s'ha publicat a Zenodo amb DOI [10.5281/zenodo.7337202](https://doi.o
 
 ## Vídeo de la presentació
 
-Enllaç del vídeo a la presentació de la pràctica: [https://drive.google.com/...](https://drive.google.com/...)
+Enllaç del vídeo a la presentació de la pràctica: https://drive.google.com/file/d/1Xt-OrwVLSjVy36he6NajHuIdadyvccLB/view?usp=sharing](https://drive.google.com/file/d/1Xt-OrwVLSjVy36he6NajHuIdadyvccLB/view?usp=sharing)
 
 
 # Recursos
