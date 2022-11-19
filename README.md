@@ -47,9 +47,9 @@ python Extraccio_Soy_Super.py
   * `/dataset/collected_data_1.csv`: Descripción archivo.
   
 ## Publicació a Zenodo
-El dataset s'ha publicat a Zenodo amb DOI [10.5281/zenodo.0000000](https://doi.org/10.5281/zenodo.0000000).
+El dataset s'ha publicat a Zenodo amb DOI [10.5281/zenodo.7337202](https://doi.org/10.5281/zenodo.7337202).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.0000000.svg)](https://doi.org/10.5281/zenodo.0000000)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7337202.svg)](https://doi.org/10.5281/zenodo.7337202)
 
 ## Vídeo de la presentació
 
