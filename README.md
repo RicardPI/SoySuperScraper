@@ -45,7 +45,15 @@ python Extraccio_Soy_Super.py
   * `/src/Extraccio_Soy_Super.py`: Arxiu principal.
   * `/src/requirements.txt`: Llista de paquetes utilitzats (Python 3.7.5).
   * `/dataset/collected_data_1.csv`: Descripción archivo.
+  
+## Publicació a Zenodo
+El dataset s'ha publicat a Zenodo amb DOI [10.5281/zenodo.0000000](https://doi.org/10.5281/zenodo.0000000).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.0000000.svg)](https://doi.org/10.5281/zenodo.0000000)
+
+## Vídeo de la presentació
+
+Enllaç del vídeo a la presentació de la pràctica: [https://drive.google.com/...](https://drive.google.com/...)
 
 
 # Recursos
