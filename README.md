@@ -7,7 +7,7 @@ URL de la web escollida : https://www.soysuper.com
 
 ## Autors
   * Ricard Piqué Inglada - [rpiquei@uoc.edu](email@uoc.edu)
-  * Adrià Jaraba Corrius - [email@uoc.edu](email@uoc.edu)
+  * Adrià Jaraba Corrius - [ajarabac@uoc.edu](email@uoc.edu)
 
 ## Descripció del repositori
 
@@ -60,5 +60,3 @@ Enllaç del vídeo a la presentació de la pràctica: [https://drive.google.com/
 
 1. Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
 2. Mitchel, R. (2015). Web Scraping with Python: Collecting Data from the Modern Web. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
-
-
