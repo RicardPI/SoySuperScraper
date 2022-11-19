@@ -44,7 +44,7 @@ python Extraccio_Soy_Super.py
   * `memòria.pdf`: Document de respostes.
   * `/src/Extraccio_Soy_Super.py`: Arxiu principal.
   * `/src/requirements.txt`: Llista de paquetes utilitzats (Python 3.7.5).
-  * `/dataset/collected_data_1.csv`: Descripción archivo.
+  * `/csv/resultats.csv`: Dataframe obtingut del scraper.
   
 ## Publicació a Zenodo
 El dataset s'ha publicat a Zenodo amb DOI [10.5281/zenodo.7337202](https://doi.org/10.5281/zenodo.7337202).
