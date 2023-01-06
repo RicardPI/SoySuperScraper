@@ -5,9 +5,9 @@ Assignatura: M2.851 / Semestre: 2022-1 / Data: 18-11-2022
 
 URL de la web escollida : https://www.soysuper.com
 
-## Autors
+## Autor
   * Ricard Piqué Inglada - [rpiquei@uoc.edu](email@uoc.edu)
-  * Adrià Jaraba Corrius - [ajarabac@uoc.edu](email@uoc.edu)
+
 
 ## Descripció del repositori
 
